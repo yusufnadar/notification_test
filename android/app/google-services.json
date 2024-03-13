@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "712983941635",
+    "project_id": "nadarchat",
+    "storage_bucket": "nadarchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712983941635:android:bc9bdfe888e807dd23b436",
+        "android_client_info": {
+          "package_name": "com.example.notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712983941635-3b87rdjq2ip65vkf2pg0mkqvksksaidc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notifications",
+            "certificate_hash": "b17b822f441e0361e0511cdaaa60b2ed815c1f6e"
+          }
+        },
+        {
+          "client_id": "712983941635-shc22s7enm662kooqhe2ec5ji8e6r6vf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnuT2oixzUOTmfmLN35AuDK3ywVdPaLzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712983941635-shc22s7enm662kooqhe2ec5ji8e6r6vf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "712983941635-2o8up4iuipjl297tevdp9t8arctcrn53.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.notifications"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712983941635:android:43ae61948366f58a23b436",
+        "android_client_info": {
+          "package_name": "com.notificationTestYusuf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712983941635-2mq8q48b7da4qvjhd3tmcafjvejo46sf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.notificationTestYusuf",
+            "certificate_hash": "b17b822f441e0361e0511cdaaa60b2ed815c1f6e"
+          }
+        },
+        {
+          "client_id": "712983941635-shc22s7enm662kooqhe2ec5ji8e6r6vf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnuT2oixzUOTmfmLN35AuDK3ywVdPaLzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712983941635-shc22s7enm662kooqhe2ec5ji8e6r6vf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "712983941635-2o8up4iuipjl297tevdp9t8arctcrn53.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.notifications"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
